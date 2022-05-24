@@ -3,4 +3,4 @@
  
  Typically, you’ll have four different tiles, each with a unique colour and sound which is activated when pressed. The sound aids the player in remembering the sequence and the game ends if the player misses a step in the sequence.
 
-![Alt text](imgs/Screen Shot 2022-05-24 at 3.10.41 PM.png?raw=true "Simon Game")
+[![Screen-Shot-2022-05-24-at-3-10-41-PM.png](https://i.postimg.cc/8krgWyy6/Screen-Shot-2022-05-24-at-3-10-41-PM.png)](https://postimg.cc/hhgYR0RD)
